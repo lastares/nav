@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 灵晨的BLOG, All Rights Reserved</div>
+    <div>Copyright © 2018-2021 <a href="/" target="_blank" style="color: inherit;">灵晨的BLOG </a><span style="color: #e27575;font-size: 14px;">❤</span><span> &nbsp;&nbsp;ICP备案：<a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">浙ICP备18002648号-1</a></span>, All Rights Reserved</div>
   `,
 
   // 阿里巴巴矢量图库 https://www.iconfont.cn/
